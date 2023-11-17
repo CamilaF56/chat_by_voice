@@ -3,7 +3,7 @@
 
 
 
-<h2> Used Tecnologies </h2> 
+<h2> Used Tecnologies </h2>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/openai-%23412991.svg?&style=for-the-badge&logo=openai&logoColor=white)
 
