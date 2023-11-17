@@ -1,9 +1,10 @@
 <h1 align="center"> Chat By Voice </h1>
 <br>
+
+<h4> Chat by voice with Python's librarys and openIA. </h4>
+
 <br>
-<h5> Chat by voice with Python's librarys and openIA. </h5>
-
-
+<br>
 
 <h3> Used Tecnologies </h3>
 
