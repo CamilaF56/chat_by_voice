@@ -7,7 +7,7 @@
 <br>
 
 ## 💻 Project
-Chat by voice with Python's librarys and openIA. 📆
+Chat by voice with Python's libraries and openIA. 📆
 
 
 ## 🚀 Tecnologies
